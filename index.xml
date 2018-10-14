@@ -2,57 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Small Business Analytics</title>
-    <link>/</link>
+    <link>https://smallbusinessanalytics.github.io/</link>
     <description>Recent content on Small Business Analytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Jul 2015 14:08:45 +0200</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://smallbusinessanalytics.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deep Dives</title>
-      <link>/post/second/</link>
+      <link>https://smallbusinessanalytics.github.io/post/second/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:45 +0200</pubDate>
       
-      <guid>/post/second/</guid>
+      <guid>https://smallbusinessanalytics.github.io/post/second/</guid>
       <description>Ever wondered what insights can be discovered in your data? Have a burning question about your business that you know can be answered with data but don&amp;rsquo;t have the time? Let SBA work with you to develop an analysis plan and take a deep dive in the data.</description>
     </item>
     
     <item>
       <title>Automated Reports</title>
-      <link>/post/third/</link>
+      <link>https://smallbusinessanalytics.github.io/post/third/</link>
       <pubDate>Sat, 18 Jul 2015 14:53:21 +0200</pubDate>
       
-      <guid>/post/third/</guid>
+      <guid>https://smallbusinessanalytics.github.io/post/third/</guid>
       <description>Have you always wanted the capability to explore our data, but felt limited by the canned dashboards offered to you by your point of sales vendor? Let SBA curate the dashboard you need to improve your business.</description>
     </item>
     
     <item>
       <title>Interactive Dashboards</title>
-      <link>/post/first/</link>
+      <link>https://smallbusinessanalytics.github.io/post/first/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:29 +0200</pubDate>
       
-      <guid>/post/first/</guid>
+      <guid>https://smallbusinessanalytics.github.io/post/first/</guid>
       <description>Let us turn those manually maintained excel spreadsheets into cleanly formatted reports. SBA can create automated reports with your data, saving you time to run your business. These reports can even be scheduled to be emailed to you on a regular basis.</description>
     </item>
     
     <item>
-      <title> </title>
-      <link>/pricing/pricing/</link>
-      <pubDate>Fri, 01 Sep 2017 17:39:43 +0200</pubDate>
-      
-      <guid>/pricing/pricing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>About Us</title>
-      <link>/about/about/</link>
+      <link>https://smallbusinessanalytics.github.io/about/about/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
       
-      <guid>/about/about/</guid>
+      <guid>https://smallbusinessanalytics.github.io/about/about/</guid>
       <description>SBA is a Philadelphia based analytics consulting company specializing in all sorts of analytic products for small businesses. Whether you want to stop manually updating excel spreadsheets, create automatic recurring reports, or develop an interactive dashboard to explore your data, SBA has it covered. I will work with you to understand your business and your data, help develop the business questions and ultimately create the end product. I am a programmer and data analyst with almost a decade of consulting and analytics experience.</description>
     </item>
     
