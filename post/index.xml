@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Small Business Analytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jul 2015 14:08:45 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2015 14:08:29 +0200</lastBuildDate>
     
 	<atom:link href="https://smallbusinessanalytics.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Interactive Dashboards</title>
+      <link>https://smallbusinessanalytics.github.io/post/first/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:29 +0200</pubDate>
+      
+      <guid>https://smallbusinessanalytics.github.io/post/first/</guid>
+      <description>Let us turn those manually maintained excel spreadsheets into cleanly formatted reports. SBA can create automated reports with your data, saving you time to run your business. These reports can even be scheduled to be emailed to you on a regular basis.</description>
+    </item>
     
     <item>
       <title>Deep Dives</title>
@@ -27,15 +36,6 @@
       
       <guid>https://smallbusinessanalytics.github.io/post/third/</guid>
       <description>Have you always wanted the capability to explore our data, but felt limited by the canned dashboards offered to you by your point of sales vendor? Let SBA curate the dashboard you need to improve your business.</description>
-    </item>
-    
-    <item>
-      <title>Interactive Dashboards</title>
-      <link>https://smallbusinessanalytics.github.io/post/first/</link>
-      <pubDate>Sat, 18 Jul 2015 14:08:29 +0200</pubDate>
-      
-      <guid>https://smallbusinessanalytics.github.io/post/first/</guid>
-      <description>Let us turn those manually maintained excel spreadsheets into cleanly formatted reports. SBA can create automated reports with your data, saving you time to run your business. These reports can even be scheduled to be emailed to you on a regular basis.</description>
     </item>
     
   </channel>
